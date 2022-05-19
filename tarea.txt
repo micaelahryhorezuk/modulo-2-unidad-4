@@ -1,0 +1,3 @@
+Armar un diseño simple donde que incluya varios tipos de contenidos y utilidades de Boostrap. Intentar utilizar al menos un componente de cada tipo.
+
+Subir a un repositorio público en GitHub y compartir la URL del mismo. 
